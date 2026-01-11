@@ -7,8 +7,4 @@
 
 ---
 
-### What is Ansible?
-
-
-
- 
+### What is Ansible
