@@ -10,4 +10,6 @@
 
 ---
 
-### What is Ansible
+### What is Ansible ?
+  Ansible is an open-source automation tool used to manage systems, deploy applications, and orchestrate IT workflows without requiring agents on target machines. 
+  It’s widely valued for being simple, secure, and highly scalable.
